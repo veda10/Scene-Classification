@@ -1,0 +1,2 @@
+# Scene-Classification
+The project aims at scene classification which involved 8 classes in three methods.Initially implemented K-means clustering algorithm to figure visual word dictionary using SIFT features. Secondly, applied transfer learning with pre-trained AlexNet model trained over ImageNet dataset and applied Fine tuning. Finally designed ResNet18 model. Also experimented this model over CIFAR10 dataset.
